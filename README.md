@@ -71,37 +71,47 @@ My personal playground for testing ideas, exploring new concepts, and turning li
 
 ---
 
-## 📊 GitHub constellation
+## ✦ GitHub constellation
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&title_color=8bcbe8&icon_color=f2b8d5&text_color=e6f4fb&bg_color=142b3b" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FinaAevielle&show_icons=true&hide_border=true&bg_color=0D2535&title_color=A9E5F5&text_color=DCEFF7&icon_color=91D5E8" alt="Aevielle's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=8bcbe8&text_color=e6f4fb&bg_color=142b3b" alt="Most-used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinaAevielle&layout=compact&hide_border=true&bg_color=0D2535&title_color=A9E5F5&text_color=DCEFF7" alt="Most used languages" />
+</p>
+
+<sub>☾ A little constellation, growing one commit at a time.</sub>
+
+---
+
+## ☾ In my little universe
+
+- 🩵 **Currently creating:** Small projects with big dreams.
+- 🌱 **Learning:** `Python` · `discord.py`
+- ☁️ **Exploring:** Discord bots, automation, and new ideas.
+- ✧ **My little goal:** Turn curious thoughts into something real.
+- 🌙 **Personal motto:** *Even the smallest star has its own light.*
+
+<p align="center">
+  <sub>🫧 slowly growing, quietly glowing, always learning ♡</sub>
 </p>
 
 ---
 
-## 🌙 In my little universe
-
-- 🔭 Working on: `Add your current project`
-- 🌱 Learning: `Python · discord.py`
-- 💭 Exploring: `New ideas and tiny experiments`
-- 🎯 Next goal: `Add a goal when you're ready`
-
----
-
-## 💌 Find me
+## ♡ Find me
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-173044?style=for-the-badge&logo=github&logoColor=b7dff2" alt="GitHub profile" />
+  <a href="https://github.com/FinaAevielle">
+    <img src="https://img.shields.io/badge/GitHub-FinaAevielle-173044?style=for-the-badge&logo=github&logoColor=B7DFF2" alt="GitHub profile" />
   </a>
+  <img src="https://img.shields.io/badge/Discord-forgotten.moon__-173044?style=for-the-badge&logo=discord&logoColor=B7DFF2" alt="Discord: forgotten.moon_" />
 </p>
 
 <p align="center">
   <em>Thank you for visiting my little corner of the internet ♡</em>
   <br />
-  <sub>☁️ keep coding, keep dreaming, keep shining ✧</sub>
+  <sub>☁️ Keep coding, keep dreaming, keep shining ✧</sub>
+  <br />
+  <sub>☾ somewhere between the stars and the sea 🩵</sub>
 </p>

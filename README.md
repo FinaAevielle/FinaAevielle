@@ -23,10 +23,10 @@ Hello, I'm **Aevielle** ♡
 
 I enjoy exploring ideas, writing Python, and building little things that make digital spaces more fun.
 
-- 🩵 Interested in Python development and Discord bots.
-- ☾ Exploring `discord.py` and bot-building projects.
-- ✧ Learning something new, one line of code at a time.
-- ♡ Drawn to soft skies, tiny details, and creative experiments.
+- ♡ Interested in Python development and Discord bots.
+- ✧ Exploring `discord.py` and bot-building projects.
+- ✦ Learning something new, one line of code at a time.
+- ☾ Drawn to soft skies, tiny details, and creative experiments.
 
 > *"Even the quietest moon leaves silver on the sea."* ☾
 
@@ -87,11 +87,11 @@ My personal playground for testing ideas, exploring new concepts, and turning li
 
 ## ☾ In my little universe
 
-- 🩵 **Currently creating:** Small projects with big dreams.
-- 🌱 **Learning:** `Python` · `discord.py`
-- ☁️ **Exploring:** Discord bots, automation, and new ideas.
-- ✧ **My little goal:** Turn curious thoughts into something real.
-- 🌙 **Personal motto:** *Even the smallest star has its own light.*
+- ♡ **Currently creating:** Small projects with big dreams.
+- ✧ **Learning:** `Python` · `discord.py`
+- ✧ **Exploring:** Discord bots, automation, and new ideas.
+- ♡ **My little goal:** Turn curious thoughts into something real.
+- ☾ **Personal motto:** *Even the smallest star has its own light.*
 
 <p align="center">
   <sub>🫧 slowly growing, quietly glowing, always learning ♡</sub>
@@ -108,10 +108,13 @@ My personal playground for testing ideas, exploring new concepts, and turning li
   <img src="https://img.shields.io/badge/Discord-forgotten.moon__-173044?style=for-the-badge&logo=discord&logoColor=B7DFF2" alt="Discord: forgotten.moon_" />
 </p>
 
+---
+
 <p align="center">
-  <em>Thank you for visiting my little corner of the internet ♡</em>
-  <br />
-  <sub>☁️ Keep coding, keep dreaming, keep shining ✧</sub>
-  <br />
-  <sub>☾ somewhere between the stars and the sea 🩵</sub>
+  <i>Thank you for visiting my little corner of the internet ♡</i>
+  <br><br>
+  <sub>✧ Keep coding, keep dreaming, keep shining ✦</sub>
+  <br>
+  <sub>☾ Somewhere between the stars and the sea ♡</sub>
 </p>
+

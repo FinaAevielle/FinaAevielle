@@ -44,27 +44,30 @@ I enjoy exploring ideas, writing Python, and building little things that make di
 
 ---
 
-## 🩵 Featured projects
+## 🩵 Featured Projects
 
-> Replace these examples with your real repositories.
+*A few little creations born under the moonlight.*
 
-### ♡ [Project name one](YOUR_PROJECT_REPOSITORY_URL)
+> 🌙 Some projects are still growing, and some are waiting for their first spark.
 
-A short description of what this project does, what inspired it, and what someone can use it for.
+### ♡ Discord Bot Collection
+A cozy corner for my Discord bot experiments, from helpful commands to small quality-of-life features for online communities.
 
-`Python` · `Add relevant tools`
+`Python` · `discord.py` · `Bot Development`
 
-### ☾ [Project name two](YOUR_PROJECT_REPOSITORY_URL)
+### ☾ Moonlit Utilities
+A collection of Python experiments and small tools created to make everyday tasks a little easier, one line of code at a time.
 
-Describe a Discord bot, automation tool, or another experiment you want to showcase.
+`Python` · `Automation` · `Learning Project`
 
-`Python` · `discord.py`
+### ✧ Stardust Workshop
+My personal playground for testing ideas, exploring new concepts, and turning little sparks of inspiration into code.
 
-### ✧ [Project name three](YOUR_PROJECT_REPOSITORY_URL)
+`Python` · `Experiments` · `Always Learning`
 
-A short description of another project, contribution, or work in progress.
+---
 
-`Add your tech stack`
+<sub>🩵 Project links and descriptions will be updated as each creation takes shape.</sub>
 
 ---
 

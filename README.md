@@ -70,7 +70,7 @@ Hello, dear visitor! I'm Aevielle — a beginner developer learning to turn curi
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-FinaAevielle-536C79?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/FinaAevielle)
-[![Website](https://img.shields.io/badge/Website-Aevielle's_Little_Chapel-789AAA?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://finaevielle.github.io/)
+[![Website](https://img.shields.io/badge/Website-Aevielle's_Little_Chapel-789AAA?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://finaaevielle.github.io/)
 
 *Thank you for stopping by. May your days be gentle. ♡*
 

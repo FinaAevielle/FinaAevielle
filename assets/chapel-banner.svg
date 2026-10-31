@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Aevielle — A Little Chapel of Stars</title>
+  <desc id="desc">A soft ivory and powder blue chapel-inspired banner with stained-glass arches, delicate stars, and warm gold accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbfaf6"/>
+      <stop offset=".55" stop-color="#e5f0f2"/>
+      <stop offset="1" stop-color="#c8dfe5"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f9f8f1"/>
+      <stop offset="1" stop-color="#a9cbd9"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="360" rx="30" fill="url(#bg)"/>
+  <circle cx="1000" cy="90" r="170" fill="#fff" opacity=".24"/>
+  <g opacity=".65" stroke="#c9ad76" stroke-width="2" fill="none">
+    <path d="M810 360V150a150 150 0 0 1 300 0v210"/>
+    <path d="M845 360V160a115 115 0 0 1 230 0v200"/>
+    <path d="M880 360V170a80 80 0 0 1 160 0v190"/>
+    <path d="M960 90v270M810 210h300"/>
+  </g>
+  <path d="M880 360V170a80 80 0 0 1 160 0v190Z" fill="url(#glass)" opacity=".72"/>
+  <g fill="#fff" opacity=".9">
+    <circle cx="900" cy="95" r="4"/><circle cx="1090" cy="70" r="3"/><circle cx="760" cy="250" r="3"/>
+    <circle cx="1125" cy="255" r="4"/><circle cx="690" cy="90" r="2.5"/><circle cx="1010" cy="300" r="3"/>
+  </g>
+  <g fill="#c9ad76" filter="url(#glow)">
+    <path d="M740 55l5 12 12 5-12 5-5 12-5-12-12-5 12-5z"/>
+    <path d="M1120 150l4 9 9 4-9 4-4 9-4-9-9-4 9-4z"/>
+    <path d="M825 275l3 7 7 3-7 3-3 7-3-7-7-3 7-3z"/>
+  </g>
+  <g fill="#536c79" font-family="Georgia, 'Times New Roman', serif">
+    <text x="90" y="125" font-size="19" letter-spacing="7" fill="#789aaa">A LITTLE CHAPEL OF STARS</text>
+    <text x="84" y="218" font-size="82">Aevielle</text>
+    <text x="92" y="260" font-size="22" fill="#668da2">♡ code · games · little dreams ♡</text>
+  </g>
+  <path d="M92 286h430" stroke="#c9ad76" stroke-width="2" opacity=".8"/>
+  <g fill="#789aaa" opacity=".8">
+    <path d="M550 120l5 12 12 5-12 5-5 12-5-12-12-5 12-5z"/>
+    <path d="M630 300l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/>
+  </g>
+</svg>

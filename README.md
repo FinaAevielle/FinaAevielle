@@ -55,6 +55,19 @@ Hello, dear visitor! I'm Aevielle — a beginner developer learning to turn curi
 | **MONGIL: STAR DIVE** | Explored combat encounters and creature-collecting elements. |
 | **Neverness to Everness** | Looked around its urban world and experimented with its supernatural features. |
 
+
+## ☾ GitHub constellation
+
+<div align="center">
+
+<img src="https://ghstats.dev/api/card?username=FinaAevielle&bg=F7F5EF&text=344653&title_color=536C79&icon_color=789AAA&border_color=D9E5E5&border_radius=12" width="49%" alt="Aevielle's GitHub statistics"/>
+
+<img src="https://ghstats.dev/api/langs?username=FinaAevielle&layout=bar&max_langs=6&bg=F7F5EF&text=344653&title_color=536C79&border_color=D9E5E5&border_radius=12" width="49%" alt="Aevielle's most used programming languages"/>
+
+</div>
+
+*Little steps, little commits — my coding journey keeps growing. ♡*
+
 ## ✦ Little creations
 
 | Project | What it is | Stack |

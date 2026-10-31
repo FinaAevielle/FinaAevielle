@@ -9,7 +9,7 @@
 *Welcome to my little corner of the internet.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-FinaAevielle-536C79?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/FinaAevielle)
-[![Website](https://img.shields.io/badge/Personal_Website-Visit-789AAA?style=flat-square&logo=googlechrome&logoColor=FFFFFF)](https://finaevielle.github.io/)
+[![Website](https://img.shields.io/badge/Personal_Website-Visit-789AAA?style=flat-square&logo=googlechrome&logoColor=FFFFFF)](https://finaaevielle.github.io/)
 
 </div>
 
